@@ -64,7 +64,7 @@ osinfo() {
     fi
 }
 
-os_info
+osinfo
 
 public_ip_address=$(curl -s ifconfig.me || echo "N/A (Service Failed)")
 
