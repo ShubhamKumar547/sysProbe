@@ -1,7 +1,7 @@
 # sysProbe
 
 Installation:
-[text](https://github.com/ShubhamKumar547/sysProbe.git)
+[Click here](https://github.com/ShubhamKumar547/sysProbe.git)
 
 
 Make the script executable:
