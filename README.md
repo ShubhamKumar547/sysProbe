@@ -1,6 +1,6 @@
 # sysProbe 
 
-**sysProbe** is a lightweight, Bash-based system resource monitoring tool designed for Linux distributions (optimized for Ubuntu). It provides a real-time dashboard of your system's vital statistics directly in the terminal without the overhead of heavy graphical monitoring tools.
+**sysProbe** is a lightweight, Bash-based system resource monitoring tool designed for Linux distributions (optimized for Ubuntu).
 
 
 ##  Prerequisites
@@ -15,7 +15,7 @@ You can set up `sysProbe` in seconds.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ShubhamKumar547/sysProbe.git](https://github.com/ShubhamKumar547/sysProbe.git)
+    https://github.com/ShubhamKumar547/sysProbe.git
     ```
 
 2.  **Navigate to the directory:**
