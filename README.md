@@ -3,6 +3,18 @@
 **sysProbe** is a lightweight, Bash-based system resource monitoring tool designed for Linux distributions (optimized for Ubuntu).
 
 
+**Dependencies**
+1. curl
+2. uptime
+3. free 
+4. df 
+5. lscpu 
+6. grep 
+7. awk 
+8. sed
+
+
+
 ##  Prerequisites
 
 * **OS:** Linux 
@@ -34,3 +46,4 @@ To start monitoring your system, simply run the script from your terminal:
 
 ```bash
 ./monitor.sh
+
